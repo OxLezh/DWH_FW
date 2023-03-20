@@ -11,7 +11,7 @@
 
 \* Backup по базе данным и схемам можно скачать по ссылке https://disk.yandex.ru/d/EOYUW_8uxHw6vA .
 
-Также с помощью выполнения скрипта Create_table__FW_DWH_2023.sql можно создать базу, схемы и все таблицы. 
+Также с помощью выполнения скрипта _Create_table__FW_DWH_2023.sql_ можно создать базу, схемы и все таблицы. 
 
 ## Папки репозитория:
 
@@ -22,10 +22,10 @@
 ### Screenshots:
 
 * #### ER_Diagram:
-  * -ER_diagram_dwh_bookings.png- - ER диаграмма таблиц измерений и таблицы фактов;
-  * -ER_diagram_dwh_bookings_reject.png- ER диаграмма таблиц для некачественных данных.
+  * _ER_diagram_dwh_bookings.png_ - ER диаграмма таблиц измерений и таблицы фактов;
+  * _ER_diagram_dwh_bookings_reject.png_ - ER диаграмма таблиц для некачественных данных.
 * #### screen_jobs: 
-  * -start_bookings_FW_DWH_2023.png- - скриншот задания.
+  * _start_bookings_FW_DWH_2023.png_ - скриншот задания.
 * #### screen_tramsformation:
   * _dim_aircrafts.png_ - скриншот трансформации по загрузке данных в таблицу измерения dim_aircrafts;
   * _dim_airports.png_ - скриншот трансформации по загрузке данных в таблицу измерения _dim_airports;
