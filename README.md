@@ -25,7 +25,7 @@
   * _ER_diagram_dwh_bookings.png_ - ER диаграмма таблиц измерений и таблицы фактов;
   * _ER_diagram_dwh_bookings_reject.png_ - ER диаграмма таблиц для некачественных данных.
 * #### screen_jobs: 
-  * -start_bookings_FW_DWH_2023.png- - скриншот задания.
+  * _start_bookings_FW_DWH_2023.png_ - скриншот задания.
 * #### screen_tramsformation:
   * _dim_aircrafts.png_ - скриншот трансформации по загрузке данных в таблицу измерения dim_aircrafts;
   * _dim_airports.png_ - скриншот трансформации по загрузке данных в таблицу измерения _dim_airports;
