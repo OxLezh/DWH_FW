@@ -3,15 +3,13 @@
 ## Запуск проекта:
 
 1. Установить Pentaho 9.3 ( https://sourceforge.net/projects/pentaho/files/Pentaho-9.3/client-tools/pdi-ce-9.3.0.0-428.zip/download ) и java 8 (https://www.oracle.com/java/technologies/downloads/#java8 ).  
-2. Восстановить базу данных DB_dwh_demo_nj из файла _DB_dwh_demo_nj.sql_ *.  
+2. Восстановить базу данных DB_dwh_demo_nj из файла _DB_dwh_demo_nj.sql_ *  или выполнить скрипт _Create_table__FW_DWH_2023.sql_  - создать базу, схемы и все таблицы.  
 3. Найти файл kettle.properties  и прописать в параметр OUT_DIR путь к папке с трансформациями (Transformations).  
 4. Запустить _start_bookings_FW_DWH_2023.kjb_ . 
 
 Для проверки работы фильтров необходимо восстановить shema_bookings_with_error.sql* .
 
-\* Backup по базе данным и схемам можно скачать по ссылке https://disk.yandex.ru/d/EOYUW_8uxHw6vA .
-
-Также с помощью выполнения скрипта _Create_table__FW_DWH_2023.sql_ можно создать базу, схемы и все таблицы. 
+_\* Backup базы данных и схем можно скачать по ссылке https://disk.yandex.ru/d/EOYUW_8uxHw6vA_ .
 
 ## Папки репозитория:
 
