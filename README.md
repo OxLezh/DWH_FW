@@ -22,8 +22,8 @@
 ### Screenshots:
 
 * #### ER_Diagram:
-  * -ER_diagram_dwh_bookings.png- - ER диаграмма таблиц измерений и таблицы фактов;
-  * -ER_diagram_dwh_bookings_reject.png- ER диаграмма таблиц для некачественных данных.
+  * _ER_diagram_dwh_bookings.png_ - ER диаграмма таблиц измерений и таблицы фактов;
+  * _ER_diagram_dwh_bookings_reject.png_ - ER диаграмма таблиц для некачественных данных.
 * #### screen_jobs: 
   * -start_bookings_FW_DWH_2023.png- - скриншот задания.
 * #### screen_tramsformation:
